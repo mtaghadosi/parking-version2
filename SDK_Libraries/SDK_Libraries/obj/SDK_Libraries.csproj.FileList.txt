@@ -1,0 +1,10 @@
+bin\Release\SDK_Libraries.dll
+bin\Release\SDK_Libraries.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SDK_Libraries.dll
+obj\Release\SDK_Libraries.pdb
+bin\Debug\SDK_Libraries.dll
+bin\Debug\SDK_Libraries.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SDK_Libraries.dll
+obj\Debug\SDK_Libraries.pdb

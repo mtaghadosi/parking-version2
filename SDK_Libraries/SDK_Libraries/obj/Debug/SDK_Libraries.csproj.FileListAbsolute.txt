@@ -1,0 +1,5 @@
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SDK_Libraries\SDK_Libraries\bin\Debug\SDK_Libraries.dll
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SDK_Libraries\SDK_Libraries\bin\Debug\SDK_Libraries.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SDK_Libraries\SDK_Libraries\obj\Debug\ResolveAssemblyReference.cache
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SDK_Libraries\SDK_Libraries\obj\Debug\SDK_Libraries.dll
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SDK_Libraries\SDK_Libraries\obj\Debug\SDK_Libraries.pdb

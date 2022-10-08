@@ -1,0 +1,28 @@
+bin\Release\Parking Version2.exe
+bin\Release\Parking Version2.pdb
+bin\Release\SDK_Libraries.dll
+bin\Release\SoftwareMainBase.exe
+bin\Release\SoftwareMainBase.pdb
+bin\Release\SDK_Libraries.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Parking_Version2.GUI.ConnectingGUI.resources
+obj\Release\Parking_Version2.GUI.ConnectionString_Config.resources
+obj\Release\Parking_Version2.LoginForm.resources
+obj\Release\Parking_Version2.Properties.Resources.resources
+obj\Release\Login.csproj.GenerateResource.Cache
+obj\Release\Parking Version2.exe
+obj\Release\Parking Version2.pdb
+bin\Debug\Parking Version2.exe
+bin\Debug\Parking Version2.pdb
+bin\Debug\SDK_Libraries.dll
+bin\Debug\SoftwareMainBase.exe
+bin\Debug\SoftwareMainBase.pdb
+bin\Debug\SDK_Libraries.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Parking_Version2.GUI.ConnectingGUI.resources
+obj\Debug\Parking_Version2.GUI.ConnectionString_Config.resources
+obj\Debug\Parking_Version2.LoginForm.resources
+obj\Debug\Parking_Version2.Properties.Resources.resources
+obj\Debug\Login.csproj.GenerateResource.Cache
+obj\Debug\Parking Version2.exe
+obj\Debug\Parking Version2.pdb

@@ -1,0 +1,14 @@
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Parking Version2.exe
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Parking Version2.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\bin\Debug\Parking Version2.exe
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\bin\Debug\Parking Version2.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\bin\Debug\SDK_Libraries.dll
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\bin\Debug\SoftwareMainBase.exe
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\bin\Debug\SoftwareMainBase.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\bin\Debug\SDK_Libraries.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\ResolveAssemblyReference.cache
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Parking_Version2.GUI.ConnectingGUI.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Parking_Version2.GUI.ConnectionString_Config.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Parking_Version2.LoginForm.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Parking_Version2.Properties.Resources.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\Parking Version2\obj\Debug\Login.csproj.GenerateResource.Cache

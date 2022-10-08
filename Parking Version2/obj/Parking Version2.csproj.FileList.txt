@@ -1,0 +1,9 @@
+obj\Debug\Parking Version2.exe
+obj\Debug\Parking Version2.pdb
+bin\Debug\Parking Version2.exe
+bin\Debug\Parking Version2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Parking_Version2.GUI.ConnectionString_Config.resources
+obj\Debug\Parking_Version2.Form1.resources
+obj\Debug\Parking_Version2.Properties.Resources.resources
+obj\Debug\Parking Version2.csproj.GenerateResource.Cache

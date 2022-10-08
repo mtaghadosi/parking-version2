@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Parking Version2\Login.csproj", "{760C5CEA-ADEF-4F1E-8FA6-40BA28B9E4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareMainBase", "SoftwareMainBase\SoftwareMainBase.csproj", "{9F62C90E-82C2-4E70-BBCD-61AB71DB7B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK_Libraries", "SDK_Libraries\SDK_Libraries\SDK_Libraries.csproj", "{490B5825-8D47-4A1C-B3BE-BF8555BE0AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760C5CEA-ADEF-4F1E-8FA6-40BA28B9E4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760C5CEA-ADEF-4F1E-8FA6-40BA28B9E4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760C5CEA-ADEF-4F1E-8FA6-40BA28B9E4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760C5CEA-ADEF-4F1E-8FA6-40BA28B9E4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F62C90E-82C2-4E70-BBCD-61AB71DB7B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F62C90E-82C2-4E70-BBCD-61AB71DB7B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F62C90E-82C2-4E70-BBCD-61AB71DB7B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F62C90E-82C2-4E70-BBCD-61AB71DB7B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490B5825-8D47-4A1C-B3BE-BF8555BE0AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490B5825-8D47-4A1C-B3BE-BF8555BE0AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490B5825-8D47-4A1C-B3BE-BF8555BE0AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490B5825-8D47-4A1C-B3BE-BF8555BE0AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
