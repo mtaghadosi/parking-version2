@@ -1,0 +1,14 @@
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\bin\Debug\SoftwareMainBase.exe
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\bin\Debug\SoftwareMainBase.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\bin\Debug\SDK_Libraries.dll
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\bin\Debug\SDK_Libraries.pdb
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.GUI.AboutBox1.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.GUI.Applying_Permissions.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.MainForm.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.GUI.SettingsForm.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.GUI.UpdatingInformations.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.Properties.Resources.resources
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.csproj.GenerateResource.Cache
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.exe
+E:\Working And Private Area\Working\Corporation Files\Parking Version2\SoftwareMainBase\obj\Debug\SoftwareMainBase.pdb
